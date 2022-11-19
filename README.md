@@ -1,4 +1,4 @@
-# AutomationProject Java Selenium
+# Java Selenium Automation Project
 
 * This is an automation project developed in Java using Selenium for UI test automation
 
