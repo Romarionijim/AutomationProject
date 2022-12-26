@@ -6,4 +6,6 @@
 
 * The tests were written using the TestNG framework.
 
-* for reporting I used allure reports and it's annotations to orginize the tests when recieving reports
+* For reporting I used allure reports and it's annotations to orginize the tests when recieving reports
+
+* The project is developed using the Page Object Model design pattern and Page Factory
